@@ -1,1 +1,2 @@
-print('today is Thursday')
+
+	print('today is Thursday')
